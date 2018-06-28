@@ -18,6 +18,16 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+#Node Files
+node_modules
+build
+npm-debug.log
+.env
+.DS_Store
+
+#VS Code Files
+.vscode
+
 # =========================
 # Operating System Files
 # =========================
